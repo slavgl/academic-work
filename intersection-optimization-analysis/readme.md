@@ -1,11 +1,3 @@
 Abstract
 
-The cross streets of W. Broadway and Cambie is one of the busiest intersections in the Vancouver Metropolitan area. Introducing a new
-traffic pattern, such as a diagonal crossing (scramble crossing), to improve pedestrian crossing eciency can be risky considering the high
-traffic volume that the trac corridor supports. The benefits from introducing a scramble crossing include the obvious shorter distance
-travelled by pedestrians when wanting to reach an opposite diagonal corner, and, given the right type of scramble crossing, a reduction of
-vehicle delays that are produced by walking pedestrians. Based on research and review of previous studies and methods, we constructed a
-mixed integer programming model to establish if the introduction of a scramble crossing at the chosen intersection would improve eciency.
-Applying our model to the intersection of study generated positive results, allowing us to recommend that a scramble intersection be intro-
-duced. However, to further support our conclusion we recommend that additional studies should be carried out to better evaluate introduced
-parameters.
+The cross streets of W. Broadway and Cambie is one of the busiest intersections in the Vancouver Metropolitan area. Introducing a new traffic pattern, such as a diagonal crossing (scramble crossing), to improve pedestrian crossing eciency can be risky considering the high traffic volume that the traffic corridor supports. The benefits from introducing a scramble crossing include the obvious shorter distance travelled by pedestrians when wanting to reach an opposite diagonal corner, and, given the right type of scramble crossing, a reduction of vehicle delays that are produced by walking pedestrians. Based on research and review of previous studies and methods, we constructed amixed integer programming model to establish if the introduction of a scramble crossing at the chosen intersection would improve efficiency. Applying our model to the intersection of study generated positive results, allowing us to recommend that a scramble intersection be introduced. However, to further support our conclusion we recommend that additional studies should be carried out to better evaluate introduced parameters.
